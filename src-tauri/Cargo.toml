@@ -1,5 +1,5 @@
 [package]
-name = "grandma-midi-control-mapper"
+name = "tauri-sveltekit-tailwind-bitsui"
 version = "0.1.0"
 description = "A Tauri App"
 authors = ["you"]

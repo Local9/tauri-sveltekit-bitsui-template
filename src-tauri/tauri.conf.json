@@ -1,8 +1,8 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "grandma-midi-control-mapper",
+  "productName": "tauri-sveltekit-tailwind-bitsui",
   "version": "0.1.0",
-  "identifier": "com.grandma-midi-control-mapper.app",
+  "identifier": "com.tauri-sveltekit-tailwind-bitsui.app",
   "build": {
     "beforeDevCommand": "pnpm dev",
     "devUrl": "http://localhost:1420",
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "grandma-midi-control-mapper",
+        "title": "tauri-sveltekit-tailwind-bitsui",
         "width": 800,
         "height": 600
       }
